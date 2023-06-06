@@ -1,0 +1,40 @@
+#accessories 
+{
+	height: 1000px;
+	display: flex;
+	justify-content: space-evenly;
+	flex-wrap: wrap;
+	margin: 0;
+	padding: 0;
+}
+.accessoriesdiv
+{
+	float: left;
+}
+.Accessoriesfield
+{
+	height: 600px;
+	border: 2px solid #FBC02D;
+	width: 40%;
+}
+.formacc 
+{
+	padding: 50px;
+	width: 40%;
+}
+.formacc img
+{
+	width: 300px;
+	height: 300px;
+}
+.accbuttons
+{
+	width: 20%;
+	float: right;
+	padding: 0px;
+	display: inline;
+}
+.formacc input[type=number]
+{
+
+}
